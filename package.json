@@ -38,7 +38,7 @@
   "dependencies": {
     "lodash.isequal": "^4.5.0",
     "prop-types": "^15.5.10",
-    "react-native-experimental-navigation": "^0.28.0",
+    "react-native-experimental-navigation": "git+https://github.com/abdurrahmanekr/react-native-experimental-navigation#3e09a119bbb436eff9ce78bf6ad77e513a6924df",
     "react-native-tabs": "^1.0.9",
     "react-static-container": "^1.0.1"
   },
