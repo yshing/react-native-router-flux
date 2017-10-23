@@ -1,6 +1,5 @@
-import React, {
-  PropTypes,
-} from 'react';
+import Reactfrom 'react';
+PropTypes from 'prop-types'
 import {
   View,
 } from 'react-native';
